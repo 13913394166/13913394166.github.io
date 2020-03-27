@@ -41,3 +41,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 - 首先
 - 其次
 - 最后
+
+这是我第一次在**GitHub**上写文字！
+欢迎来到我的*GitHub*！
+尝试转到[百度](http://www.baidu.com)
